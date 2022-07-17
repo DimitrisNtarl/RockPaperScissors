@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #93bbeb;
+}
+
+button {
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding: 10px;
+    background-color: blueviolet;
+}
+
+.choices {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    font-size: 30px;
+    padding: 10px;
+    margin: 100px 50px 100px 50px;
+    background-color: aquamarine;
+}
+
+#result {
+    margin: 50px 100px;
+    border-style: inset;
+    border-color: aquamarine;
+    background-color: rgb(77, 231, 180);
+
+}
